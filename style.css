@@ -63,7 +63,6 @@ img {
 }
 
 .QRContainer {
-  border: 1px solid red;
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
   display: flex;
@@ -74,7 +73,6 @@ img {
 }
 
 .container {
-  border: 1px solid red;
   display: flex;
   justify-content: center;
   justify-items: center;
